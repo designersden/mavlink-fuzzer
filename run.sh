@@ -1,0 +1,1 @@
+/AFLplusplus/afl-fuzz  -i $1 -o out_dir build/$2

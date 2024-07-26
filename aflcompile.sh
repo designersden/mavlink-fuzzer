@@ -1,0 +1,1 @@
+/AFLplusplus/afl-g++-fast -I /AFLplusplus/mavlink/generated/include/mavlink/v2.0 -static  /AFLplusplus/harness/src/$1 -o build/$2
